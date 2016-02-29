@@ -11,8 +11,8 @@
 * Estopiña Abella,Erik
 * González Cepeda, Simón
 * Alex Lliso Aixendri
-* Oscar Duran: https://travis-ci.org/OscarDuranX/tasksAPI: [![Build Status](https://travis-ci.org/OscarDuranX/tasksAPI.svg?branch=master)](https://travis-ci.org/OscarDuranX/tasksAPI)
-|| https://scrutinizer-ci.com/g/OscarDuranX/tasksAPI/: [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/OscarDuranX/tasksAPI/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/OscarDuranX/tasksAPI/?branch=master)
+* Oscar Duran: [![Build Status](https://travis-ci.org/OscarDuranX/tasksAPI.svg?branch=master)](https://travis-ci.org/OscarDuranX/tasksAPI)
+ [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/OscarDuranX/tasksAPI/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/OscarDuranX/tasksAPI/?branch=master)
 * Max Wiki!
 * Alex Bonavila
 * Fores Campos, Francesc
