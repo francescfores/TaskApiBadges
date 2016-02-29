@@ -1,7 +1,7 @@
 # Travis i Scrutinitzer:
 
 * Dolz Hernández, Daniel
-* Yves Navarro
+* Navarro, Yves - Travis: [![Build Status](https://travis-ci.org/YvesNavarro/tasksAPI.svg?branch=master)](https://travis-ci.org/YvesNavarro/tasksAPI)
 * Mayor Rodriguez, Marc Albert
 * Pineda Viscarro, Sergi
 * Liviu Coronciuc, Liviu Coronciuc
