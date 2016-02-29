@@ -5,7 +5,8 @@
 * Mayor Rodriguez, Marc Albert
 * Pineda Viscarro, Sergi
 * Liviu Coronciuc, Liviu Coronciuc
-* Alvarado Bertomeu, Adam
+* Alvarado Bertomeu, Adam: https://travis-ci.org/AlvaradoAdam15/tasksAPI: [![Build Status](https://travis-ci.org/AlvaradoAdam15/tasksAPI.svg?branch=master)](https://travis-ci.org/AlvaradoAdam15/tasksAPI)
+https://scrutinizer-ci.com/g/AlvaradoAdam15/tasksAPI/: [![Build Status](https://scrutinizer-ci.com/g/AlvaradoAdam15/tasksAPI/badges/build.png?b=master)](https://scrutinizer-ci.com/g/AlvaradoAdam15/tasksAPI/build-status/master)
 * Domenech Canalda, Marc
 * Davila Bazalar, Paolo
 * Estopiña Abella,Erik
