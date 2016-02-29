@@ -22,3 +22,11 @@ https://scrutinizer-ci.com/g/AlvaradoAdam15/tasksAPI/: [![Scrutinizer Code Quali
 * López Moreno, Javier
 * German Galià Beltran
 
+Travis test:
+[![Build Status](https://travis-ci.org/Germangalia/tasksAPI.svg?branch=master)](https://travis-ci.org/Germangalia/tasksAPI)
+
+Scrutinizer test:
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Germangalia/tasksAPI/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/Germangalia/tasksAPI/?branch=master)
+
+
+
