@@ -6,7 +6,7 @@
 * Pineda Viscarro, Sergi
 * Liviu Coronciuc, Liviu Coronciuc
 * Alvarado Bertomeu, Adam: https://travis-ci.org/AlvaradoAdam15/tasksAPI: [![Build Status](https://travis-ci.org/AlvaradoAdam15/tasksAPI.svg?branch=master)](https://travis-ci.org/AlvaradoAdam15/tasksAPI)
-https://scrutinizer-ci.com/g/AlvaradoAdam15/tasksAPI/: [![Build Status](https://scrutinizer-ci.com/g/AlvaradoAdam15/tasksAPI/badges/build.png?b=master)](https://scrutinizer-ci.com/g/AlvaradoAdam15/tasksAPI/build-status/master)
+https://scrutinizer-ci.com/g/AlvaradoAdam15/tasksAPI/: [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/AlvaradoAdam15/tasksAPI/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/AlvaradoAdam15/tasksAPI/?branch=master)
 * Domenech Canalda, Marc
 * Davila Bazalar, Paolo
 * Estopiña Abella,Erik
