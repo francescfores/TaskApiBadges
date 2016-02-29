@@ -15,7 +15,7 @@ https://scrutinizer-ci.com/g/AlvaradoAdam15/tasksAPI/: [![Build Status](https://
 * Oscar Duran
 * Max Wiki! [![Build Status](https://travis-ci.org/maksymkhar/tasksAPI.svg?branch=master)](https://travis-ci.org/maksymkhar/tasksAPI) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/maksymkhar/tasksAPI/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/maksymkhar/tasksAPI/?branch=master)
 * Alex Bonavila
-* Fores Campos, Francesc
+* Fores Campos, Francesc [![Build Status](https://travis-ci.org/francescfores/tasksAPI.svg?branch=master)](https://travis-ci.org/francescfores/tasksAPI)  [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/francescfores/tasksAPI/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/francescfores/tasksAPI/?branch=master)
 * Forés Castell, Pau
 * Melich Curto, Roger [![Build Status](https://travis-ci.org/rogermelich/tasksAPI.svg?branch=master)] (https://travis-ci.org/rogermelich/tasksAPI) / [![Build Status](https://scrutinizer-ci.com/g/rogermelich/tasksAPI/badges/build.png?b=master)](https://scrutinizer-ci.com/g/rogermelich/tasksAPI/build-status/master)(https://scrutinizer-ci.com/g/rogermelich/tasksAPI/badges/build.png?b=master)
 * Huguet Esquerré, Joan Manel 
