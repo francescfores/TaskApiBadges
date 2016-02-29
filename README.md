@@ -1,7 +1,7 @@
 # Travis i Scrutinitzer:
 
 * Dolz Hernández, Daniel
-* Navarro, Yves - Travis: [![Build Status](https://travis-ci.org/YvesNavarro/tasksAPI.svg?branch=master)](https://travis-ci.org/YvesNavarro/tasksAPI)
+* Navarro, Yves - Travis: [![Build Status](https://travis-ci.org/YvesNavarro/tasksAPI.svg?branch=master)](https://travis-ci.org/YvesNavarro/tasksAPI) Scrutinizer: [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/YvesNavarro/tasksAPI/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/YvesNavarro/tasksAPI/?branch=master)
 * Mayor Rodriguez, Marc Albert
 * Pineda Viscarro, Sergi: https://travis-ci.org/sergipineda/tasksAPI [![Build Status](https://travis-ci.org/sergipineda/tasksAPI.svg?branch=master)](https://travis-ci.org/sergipineda/tasksAPI)  https://scrutinizer-ci.com/g/sergipineda/tasksAPI/build-status/master [![Build Status](https://scrutinizer-ci.com/g/sergipineda/tasksAPI/badges/build.png?b=master)](https://scrutinizer-ci.com/g/sergipineda/tasksAPI/build-status/master)
 * Liviu Coronciuc, Liviu Coronciuc
