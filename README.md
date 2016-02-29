@@ -16,7 +16,7 @@
 * Alex Bonavila
 * Fores Campos, Francesc
 * Forés Castell, Pau
-* Melich Curto, Roger
+* Melich Curto, Roger [![Build Status](https://travis-ci.org/rogermelich/tasksAPI.svg?branch=master)](https://travis-ci.org/rogermelich/tasksAPI)
 * Huguet Esquerré, Joan Manel 
 * López Moreno, Javier
 * German Galià Beltran
