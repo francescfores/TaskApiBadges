@@ -3,7 +3,7 @@
 * Dolz Hernández, Daniel
 * Yves Navarro
 * Mayor Rodriguez, Marc Albert
-* Pineda Viscarro, Sergi: https://travis-ci.org/sergipineda/tasksAPI [![Build Status](https://travis-ci.org/sergipineda/tasksAPI.svg?branch=master)](https://travis-ci.org/sergipineda/tasksAPI)  [![Build Status](https://scrutinizer-ci.com/g/sergipineda/tasksAPI/badges/build.png?b=master)](https://scrutinizer-ci.com/g/sergipineda/tasksAPI/build-status/master)
+* Pineda Viscarro, Sergi: https://travis-ci.org/sergipineda/tasksAPI [![Build Status](https://travis-ci.org/sergipineda/tasksAPI.svg?branch=master)](https://travis-ci.org/sergipineda/tasksAPI)  https://scrutinizer-ci.com/g/sergipineda/tasksAPI/build-status/master[![Build Status](https://scrutinizer-ci.com/g/sergipineda/tasksAPI/badges/build.png?b=master)](https://scrutinizer-ci.com/g/sergipineda/tasksAPI/build-status/master)
 * Liviu Coronciuc, Liviu Coronciuc
 * Alvarado Bertomeu, Adam: https://travis-ci.org/AlvaradoAdam15/tasksAPI: [![Build Status](https://travis-ci.org/AlvaradoAdam15/tasksAPI.svg?branch=master)](https://travis-ci.org/AlvaradoAdam15/tasksAPI)
 https://scrutinizer-ci.com/g/AlvaradoAdam15/tasksAPI/: [![Build Status](https://scrutinizer-ci.com/g/AlvaradoAdam15/tasksAPI/badges/build.png?b=master)](https://scrutinizer-ci.com/g/AlvaradoAdam15/tasksAPI/build-status/master)
