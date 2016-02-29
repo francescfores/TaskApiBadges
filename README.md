@@ -12,7 +12,7 @@
 * González Cepeda, Simón
 * Alex Lliso Aixendri
 * Oscar Duran
-* Max Wiki!
+* Max Wiki! [![Build Status](https://travis-ci.org/maksymkhar/tasksAPI.svg?branch=master)](https://travis-ci.org/maksymkhar/tasksAPI) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/maksymkhar/tasksAPI/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/maksymkhar/tasksAPI/?branch=master)
 * Alex Bonavila
 * Fores Campos, Francesc
 * Forés Castell, Pau
