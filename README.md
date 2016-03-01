@@ -12,7 +12,8 @@ https://scrutinizer-ci.com/g/AlvaradoAdam15/tasksAPI/: [![Scrutinizer Code Quali
 * Estopiña Abella,Erik
 * González Cepeda, Simón
 * Alex Lliso Aixendri
-* Oscar Duran
+* Oscar Duran: [![Build Status](https://travis-ci.org/OscarDuranX/tasksAPI.svg?branch=master)](https://travis-ci.org/OscarDuranX/tasksAPI)
+ [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/OscarDuranX/tasksAPI/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/OscarDuranX/tasksAPI/?branch=master)
 * Max Wiki! [![Build Status](https://travis-ci.org/maksymkhar/tasksAPI.svg?branch=master)](https://travis-ci.org/maksymkhar/tasksAPI) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/maksymkhar/tasksAPI/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/maksymkhar/tasksAPI/?branch=master)
 * Alex Bonavila
 * Fores Campos, Francesc
